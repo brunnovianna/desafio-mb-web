@@ -42,7 +42,6 @@
     });
 
     function submit() {
-        debugger
         stepEmail.value.next();
         stepRegistration.value.next();
         stepPassword.value.next();

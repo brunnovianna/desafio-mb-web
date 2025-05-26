@@ -21,13 +21,6 @@
 	
 	const formData = reactive({
 		registrationType: 'PF',
-		email: 'a@a.com',
-		name: 'a', 
-		cpf: '10378777726', 
-		birthDate: '21/03/1983', 
-		phone: '11955571433',
-		password: 'a'
-
 	});
 
 	const displayFormStep = computed(() => currentFormStep.value + 1);
