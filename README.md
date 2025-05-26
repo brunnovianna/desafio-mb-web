@@ -14,8 +14,8 @@ Este projeto inclui:
 
 1. **Clone o repositório**  
   ```bash
-  git clone <URL>
-  cd <pasta-do-projeto>
+  git clone https://github.com/brunnovianna/desafio-mb-web
+  cd desafio-mb-web
   ```
 
 2. **Instale e rode o servidor**  
