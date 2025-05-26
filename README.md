@@ -16,13 +16,18 @@ Este projeto inclui:
   ```bash
   git clone <URL>
   cd <pasta-do-projeto>
+  ```
 
 2. **Instale e rode o servidor**  
+  ```bash
   cd server
   npm install
   npm start
+  ```
 
 3. **Instale e rode o app**  
+  ```bash
   cd ../app
   npm install
   npm run dev
+  ```
